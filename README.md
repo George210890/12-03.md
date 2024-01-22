@@ -30,7 +30,7 @@ where date(payment_date) >= '2005-06-15' and date(payment_date) <= '2005-06-18' 
 order by payment_date asc;
 ```
 
-![image](https://github.com/Byzgaev-I/SQL.Part-1/blob/main/2.png)
+![image](https://github.com/George210890/12-03.md/blob/main/Screenshot_2.png)
 
 ---
 
