@@ -43,7 +43,7 @@ order by payment_date asc;
 ```
 SELECT * FROM rental ORDER BY rental_date DESC LIMIT 5;
 ```
-![image](https://github.com/Byzgaev-I/SQL.Part-1/blob/main/3.png)
+![image](https://github.com/George210890/12-03.md/blob/main/Screenshot_3.png)
 
 ---
 
